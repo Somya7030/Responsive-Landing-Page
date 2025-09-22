@@ -39,7 +39,7 @@ responsive-landing-page/
 # 📷 Screenshots
 
 ### 🖥 Desktop View
-![Desktop View](desktop.png)
+![Desktop View](screenshots/desktop.png)
 
 ### 📱 Mobile View
 ![Mobile View](mobile.png)
