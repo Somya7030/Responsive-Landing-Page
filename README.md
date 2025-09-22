@@ -36,13 +36,15 @@ responsive-landing-page/
 │ ├── desktop.png
 │ └── mobile.png
 
+# 📷 Screenshots
 
+### 🖥 Desktop View
+![Desktop View](desktop.png)
 
-
-
+### 📱 Mobile View
+![Mobile View](mobile.png)
 
 📧 Contact
-Developed by: Somya Saxenz
-
-GitHub: 
+Developed by: Somya Saxena
+GitHub: https://github.com/Somya7030
 LinkedIn: www.linkedin.com/in/somya-saxena-93b23a2ba
